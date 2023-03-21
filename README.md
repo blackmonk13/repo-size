@@ -5,7 +5,7 @@ This command line application takes a GitHub repository URL and outputs the appr
 
 To use this application, you don't need to have any specific programming language or package manager installed on your system.
 
-- Download the executable file for your operating system from the [releases page](https://github.com/blackmonk13/repos-size/releases).
+- Download the executable file for your operating system from the [releases page](https://github.com/blackmonk13/repo-size/releases).
 - Unzip the downloaded file to a directory of your choice.
 - Open a terminal or command prompt and navigate to the directory where you unzipped the file.
 - Run the github-repo-size executable followed by the GitHub repository URL:
